@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Smith Gakuya
 - 👀 I’m interested in finding solutions to help improve the conditions for minority groups particularly underrepresented Black folk like me!
-- 🌱 I’m currently learning Software Development/OOP and GUI Application Development.
-- 💞️ I’m looking to collaborate primarily on backend projects.
+- 🌱 I’m currently a Computer Science major at Middlebury project.
+- 💞️ I’m looking to collaborate primarily on any full stack projects.
 - 📫 How to reach me: Phone - +1(802)458-5296, Email: sgakuya@middlebury.edu
 
 <!---
